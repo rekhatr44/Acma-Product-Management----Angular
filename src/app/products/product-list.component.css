@@ -1,0 +1,23 @@
+th{
+    color :rgb(31, 55, 240);
+}
+
+.row{
+    padding-left: 30px;
+}
+
+.col-md-2{
+    margin-top: 20px;
+}
+
+.col-md-4{
+    margin-top: 20px;
+}
+
+.card-header{
+    text-align: center;
+}
+
+.col-md-6{
+    margin-top: 0;
+}

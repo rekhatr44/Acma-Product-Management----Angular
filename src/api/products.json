@@ -1,0 +1,31 @@
+[{
+    "productId": 1,
+    "productName": "Hammer",
+    "productCode": "GDN-0024",
+    "releaseDate": "March 20, 2021",
+    "description": "curved claw steel hammer",
+    "price": 42.9,
+    "starRating": 4,
+    "imageUrl": "assets/images/cart.png"
+},
+{
+    "productId": 2,
+    "productName": "GardenCart",
+    "productCode": "GDN-0023",
+    "releaseDate": "March 18, 2021",
+    "description": "is gallon capacity rolling garden",
+    "price": 32.9,
+    "starRating": 3,
+    "imageUrl": "assets/images/cart.png"
+},
+{
+    "productId": 3,
+    "productName": "GardenCity",
+    "productCode": "GDN-0024",
+    "releaseDate": "March 19, 2021",
+    "description": "capacity rolling garden",
+    "price": 32.10,
+    "starRating": 5.2,
+    "imageUrl": "assets/images/cart2.png"
+}
+]
